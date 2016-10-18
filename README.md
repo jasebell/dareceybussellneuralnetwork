@@ -4,6 +4,12 @@
 
 This code is to accompany the blog post on [Data Is Sexy](http://dataissexy.wordpress.com/)
 
+[Part 1.](https://dataissexy.wordpress.com/2016/10/16/calculating-the-darcey-coefficient-part-1-strictlycomedancing-bbcstrictly-darceyofficial-numbers-clojure/)
+[Part 2.](https://dataissexy.wordpress.com/2016/10/18/calculating-the-darcey-coefficient-part-2-strictlycomedancing-machinelearning-clojure-weka/)
+[Part 3.](https://dataissexy.wordpress.com/2016/10/18/calculating-the-darcey-coefficient-part-3-strictlycomedancing-machinelearning-clojure-weka/)
+
+## Usage
+The code stands as a rough and ready proof of concept. There's no `-main` function to start everything off. Best way to run it is open Emacs, load the project and startup a REPL. 
 
 ## License
 
